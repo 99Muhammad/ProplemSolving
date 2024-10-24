@@ -7,6 +7,7 @@ int ReadNumber()
 	int Number = 0;
 	cout << "Enter number ?\n";
 	cin >> Number;
+
 	return Number;
 }
 
