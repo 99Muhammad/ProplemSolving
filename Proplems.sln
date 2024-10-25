@@ -7,6 +7,23 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberToText", "NumberToTex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LeapYear", "LeapYear\LeapYear.vcxproj", "{671EFD15-8294-42D2-B776-4D29AC99C365}"
 EndProject
+
+=======
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Problem-4_NumberOfDays-Hours-Minutes", "..\Algorithm_LevelFour\Problem-4_NumberOfDays-Hours-Minutes\x64\Debug\Problem-4_NumberOfDays-Hours-Minutes.exe", "{F62321E4-2CBD-4A4B-BE58-68B0FAA81A14}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Algorithm_LevelFour\Problem-4_NumberOfDays-Hours-Minutes\x64\Debug\Problem-4_NumberOfDays-Hours-Minutes.exe
+		RemoteMachine = DESKTOP-QB62F3M
+		StartingDirectory = D:\Algorithm_LevelFour\Problem-4_NumberOfDays-Hours-Minutes\x64\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem-5_NumberOf_D-H-M-S_InMonth", "..\Algorithm_LevelFour\Problem-5_NumberOf_D-H-M-S_InMonth\Problem-5_NumberOf_D-H-M-S_InMonth\Problem-5_NumberOf_D-H-M-S_InMonth.vcxproj", "{08CD92B2-C359-40B8-BD52-CBB8EB9DD726}"
 EndProject
 Global
@@ -33,6 +50,10 @@ Global
 		{671EFD15-8294-42D2-B776-4D29AC99C365}.Release|x64.Build.0 = Release|x64
 		{671EFD15-8294-42D2-B776-4D29AC99C365}.Release|x86.ActiveCfg = Release|Win32
 		{671EFD15-8294-42D2-B776-4D29AC99C365}.Release|x86.Build.0 = Release|Win32
+		{F62321E4-2CBD-4A4B-BE58-68B0FAA81A14}.Debug|x64.ActiveCfg = Release|x64
+		{F62321E4-2CBD-4A4B-BE58-68B0FAA81A14}.Debug|x86.ActiveCfg = Release|x64
+		{F62321E4-2CBD-4A4B-BE58-68B0FAA81A14}.Release|x64.ActiveCfg = Release|x64
+		{F62321E4-2CBD-4A4B-BE58-68B0FAA81A14}.Release|x86.ActiveCfg = Release|x64
 		{08CD92B2-C359-40B8-BD52-CBB8EB9DD726}.Debug|x64.ActiveCfg = Debug|x64
 		{08CD92B2-C359-40B8-BD52-CBB8EB9DD726}.Debug|x64.Build.0 = Debug|x64
 		{08CD92B2-C359-40B8-BD52-CBB8EB9DD726}.Debug|x86.ActiveCfg = Debug|Win32
